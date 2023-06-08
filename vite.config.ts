@@ -15,7 +15,7 @@ export default defineConfig({
     AutoImport({resolvers: [ElementPlusResolver()],}),
     Components({resolvers: [ElementPlusResolver()],
   }),],
-  base: '/rburtis64.github.io/',
+  base: '/rburtis64-github.io/',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
