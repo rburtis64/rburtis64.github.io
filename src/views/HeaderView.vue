@@ -1,7 +1,7 @@
 <template>
     <nav id="nav" class="sm:container">
       <div class="flex justify-between sm:px-0">
-	      <img src="@/assets/img/logos/burtis logo.png" class="w-40" alt="Logo"/>
+	      <!--<img src="src\assets\img\logos\burtis logo.png" class="w-40" alt="Logo"/>-->
 		  </div>
 	</nav>
 </template>
